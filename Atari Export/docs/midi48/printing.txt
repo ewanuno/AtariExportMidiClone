@@ -1,0 +1,5 @@
+Just a small note, if you're gonna print the PCB:
+the real PCB size is 5cm x 3,8cm.
+
+Bye
+

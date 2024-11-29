@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo 'run jlc-kicad-tools'
+jlc-kicad-tools -v ./
+echo 'remove old gerbers'
+rm atariexportgerbers.zip
+echo 'zip the gerbers'
+zip -r atariexportgerbers.zip AtariExportGerbers/

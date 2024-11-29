@@ -1,0 +1,76 @@
+06601030305800
+1
+2#
+F0110030
+9[................................................]011
+Ä
+DIRECTOR
+UniversalMIDI-RoutingAccessoryfor
+C-LABExPORTandUNITOR
+(c)1989GerhardLengeling
+
+
+
+*************************************************************
+DasAccessory"DIRECTOR"istumsonst.
+
+SiedÅrfenDIRECTORunterfolgendenVoraussetzungenfrei
+kopieren,nutzenundauchweitergeben:
+
+1. SieerkennendasCopyrightunddiesePunktean.
+2.DIRECTORmuûkomplettmitdenzugehîrigenDokumentations-
+Fileskopiertwerden.JedeKopiemuûmiteinemlesbaren
+Copyright-Vermerkgekennzeichnetwerden.
+3.DIRECTORundDokumentationdÅrfeninkeinerWeise
+verÑndertwerden.
+4.DieWeitergabemuû,eventuellmitAusnahmevoneiner
+KostenerstattungfÅreineDiskette,ebenfallsimmerohne
+Berechnungerfolgen.
+*************************************************************
+
+
+ÇWasist"DIRECTOR"?Ä
+
+DIRECTORgestattetesbeiallenMIDI-Programmen,diedem
+Atari-Betriebsystem-Standardentsprechen,dieMIDI-Ausgabe
+aufAusgÑngederC-LABHardware"ExPORT"undUNITOR
+umzulenken.DeroriginaleMIDI-Ausgangwirdmitdem
+Buchstaben"A",dieAusgÑngevonExPORTundUNITORmitden
+Buchstaben"B","C","D","E","F"gekennzeichet.
+
+DIRECTORistalsAccessoryinallenGEM-Programmen,dieÅber
+eineMenÅzeileverfÅgen,jederzeitaufrufbar.Der
+Speicherplatzbedarfistsehrgering.
+
+DIRECTORstelltdieuntersteEbene(Level 1)desC-LABSOFT
+LINK-Systemsdar.BitteinformierenSiesichbeiIhremC-LAB
+HÑndlerauchÅberdieMîglichkeiten,dieSOFTLINKinCREATOR
+oderNOTATOR(Level 2und3)bietet.
+
+AlleFunktionenvonDIRECTORsindfesterBestandteilvon
+CREATOR SLoderNOTATOR SL.DiegleichzeitigeVerwendungist
+deshalbÅberflÅssigundverschwendetunnîtigSpeicherplatz.
+
+
+ÇWiestartetmaneinAccessoryaufdemAtari-Betriebsystem?Ä
+
+DIRECTORistein"Accessory".
+
+WiejedesAccessorykannDIRECTORjederzeitvomGEM-Desktop
+ÄodervonGEM-Programmen,dieÅbereineMenÅzeileverfÅgen,
+Äaufgerufenwerden.DazumuûderEintrag"MIDI-Director"unter
+demganzlinksstehendenMenÅpunkt(z.B."Desk"oderdas
+Atari-Symbol)mitderMausangeklicktwerden.
+
+AccessorieswerdennichtwienormaleProgrammedurch
+Doppelklickgestartet,sondernautomatischindenSpeicher
+geladen,wennSieIhrenComputereinschalten.Siekennen
+wahrscheinlichdas"Kontrollfeld"-Accessory,dasim
+LieferumfangIhresComputersenthaltenist.
+
+DasDIRECTOR-AccessorymuûsichdaheraufderDiskette
+befinden,dieSiebeimEinschaltenindenComputerlegen.Bei
+BenutzungeinerFestplattemÅssendieFiles"DIRECTOR.ACC"
+und"DIRECTOR.RSC"aufPartitionCkopiertwerden.
+
+
